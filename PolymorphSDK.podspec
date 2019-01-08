@@ -87,7 +87,7 @@ https://docs.google.com/document/d/1b6xR3eY7GNHXmaLOVxAunZQwmThv1r9dHlzcFvKe2mo/
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/picatcha/polymorph-ios-sdk.git", :tag => "3.2.6" }
+  s.source       = { :git => "https://github.com/picatcha/pm-sdk-ios-cocoa.git", :tag => "3.2.6" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
