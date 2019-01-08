@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A87B0BB15FB6489C3B2A79311EFE82DF9F98367C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A87B0BB15FB6489C3B2A79311EFE82DF9F98367C" : 0,
+    "6FBFEBFE576810787D44DF0E307BB55ACE84F317" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "28F34C22-68D9-47EE-87F1-9ED12117E0F7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A87B0BB15FB6489C3B2A79311EFE82DF9F98367C" : "AdsNative-iOS-SDK\/",
+    "6FBFEBFE576810787D44DF0E307BB55ACE84F317" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AdsNativeSDK",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AdsNativeSDK\/AdsNativeSDK.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sreekanth-kalapur\/adsnative_sdk_ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6FBFEBFE576810787D44DF0E307BB55ACE84F317"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sreekanth-kalapur\/adsnative_sdk_ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A87B0BB15FB6489C3B2A79311EFE82DF9F98367C"
+    }
+  ]
+}
